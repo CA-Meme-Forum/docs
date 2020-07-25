@@ -63,9 +63,9 @@ The following issues should always be considered at the Annual General Meeting:
 - Election of the chairperson of the meeting
 - Election of meeting secretary
 - The eligibility of the meeting
-- Determination of the electoral roll
+- Determination of who is eligible to vote in the meeting
 - Approval of the agenda
-- Election of two people to adjust the minutes and be a vote counters
+- Election of two people to adjust the minutes and be vote counters
 - Discharge for last year's Executive Board
 - This year's budget and determination of the membership fee amount
 - Election of this year's Executive Board
@@ -75,7 +75,7 @@ The following issues should always be considered at the Annual General Meeting:
 - The end of the meeting
 
 ## §10 - Extra Annual General Meeting
-If the Exectuive Board or at least half of the members of the association demand an extra Annual General Meeting,
+If the Executive Board or at least half of the members of the association demand an extra Annual General Meeting,
 the board shall call for it.
 Upon a valid demand for an extra Annual General Meeting, those who have demanded it have the right to handle the notice.
 To be eligible, all members of the association must be notified at least two weeks in advance.
@@ -83,7 +83,7 @@ At extra Annual General Meetings, only the matters mentioned in the notice may b
 
 ## §11 - Signing Authority
 The Chair of the Executive Board is an authorized signatory.
-If there are special reasons, additional persons may be appointed as authorized signatories.
+Additional persons may be appointed as authorized signatories, should the board decide so.
 
 ## §12 - Right to vote
 Only members who have fully paid their membership fees shall have voting rights at the Annual General Meeting.
