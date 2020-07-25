@@ -1,5 +1,7 @@
 # Articles of Association for CA/Meme Forum
 
+### Organization Number: 802526-2091
+
 ## §1 - Association's name
 The association's name is CA/Meme Forum.
 
