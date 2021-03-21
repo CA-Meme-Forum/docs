@@ -120,7 +120,7 @@ These motions must be published in full on the association's website at least tw
 
 These Articles of Association may only be amended at an Annual General Meeting.
 To be valid, the amendment must be adopted by two-thirds of the number of votes.
-If the Articles of Association is to be amended, the proposal must be notified to the members in the notice of the meeting.
+If the Articles of Association are to be amended, the proposal must be notified to the members in the notice of the meeting.
 Otherwise, the change must be adopted unanimously.
 Amendments to the Articles of Association on Association's form (§3), Purpose (§4),
 Amendments to the Articles of Association (§15) and Dissolution (§16)
