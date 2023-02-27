@@ -16,8 +16,8 @@ The association is a Swedish "ideell förening".
 
 ## §4 - Purpose
 
-The association's purpose is to maintain the quality \
-in X.509 certificates containing "memes".
+The association's purpose is to promote security within
+the field of technology, along with related activities and research.
 
 ## §5 - Independent
 
@@ -120,9 +120,9 @@ These motions must be published in full on the association's website at least tw
 
 These Articles of Association may only be amended at an Annual General Meeting.
 To be valid, the amendment must be adopted by two-thirds of the number of votes.
-If the Articles of Association are to be amended, the proposal must be notified to the members in the notice of the meeting.
+If the Articles of Association is to be amended, the proposal must be notified to the members in the notice of the meeting.
 Otherwise, the change must be adopted unanimously.
-Amendments to the Articles of Association on Association's form (§3), Purpose (§4),
+Amendments to the Articles of Association on Association's form (§3),
 Amendments to the Articles of Association (§15) and Dissolution (§16)
 require equal decisions at two consecutive ordinary Annual General Meetings.
 
